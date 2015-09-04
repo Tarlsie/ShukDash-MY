@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-dffc58e66e6f99e4565e57a6940cca9e8327c1c5.jar" />
+    </item>
+    <item
+        jar="/Users/danieltarlow/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-73441182a4f975b7053100bac036b77fd5ac32f9.jar" />
+    </item>
+    <item
+        jar="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/classes-8062b0df0e9ec13ccbcde2aa4d3d2f1f6b77169b.jar" />
+    </item>
+    <item
+        jar="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/classes-09a22147c87d92009a0f1e73a7a814d18c68a395.jar" />
+    </item>
+    <item
+        jar="/Users/danieltarlow/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-8735fbf79a0b59cddc8fed1403483492954f0fb9.jar" />
+    </item>
+    <item
+        jar="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/danieltarlow/Desktop/android/AndroidStudio/ShukDash/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e9d39eed7cd416bd9caa2543d8c9285310bbb274.jar" />
+    </item>
+
+</items>
